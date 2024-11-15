@@ -1,0 +1,6 @@
+MIDlet-1: T)type, ,FastTypingGame.typing
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: T9Typing4ever
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
