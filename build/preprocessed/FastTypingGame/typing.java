@@ -19,9 +19,9 @@ public class typing extends MIDlet implements CommandListener {
     private TextField nameField;
     private String targetSentence;
     private String[] sentences = {
-        "(change this) level 1 sentence",
-        "(change this) level 2 sentence, longer",
-        "(change this) level 3 sentence, more complicated"
+        "This is easy to type",
+        "This is a bit more time-consuming to type.",
+        "On this level, it takes even longer to correctly type this sentence!"
     };
     private long startTime;
     private float timeTaken;
